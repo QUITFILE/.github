@@ -1,12 +1,10 @@
-## Hi there 👋
+<div align="center">
+	<br />
+	<p>
+		<a href="https://discord.js.org/"><img src="https://cdn.discordapp.com/attachments/1084512992600784906/1177288792235851807/image_1.png" width="546" alt="discord.js" /></a>
+	</p>
+</div>
 
-<!--
+## Who We Are
 
-**Here are some ideas to get you started:**
-
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+We develop Fivem , a powerful Lua framework that allows one to interact with the [Fivem.net](https://docs.fivem.net/natives/)
