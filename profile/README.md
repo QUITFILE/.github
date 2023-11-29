@@ -1,7 +1,7 @@
 <div align="center">
 	<br />
 	<p>
-		<a href="https://discord.js.org/"><img src="https://cdn.discordapp.com/attachments/1084512992600784906/1177288792235851807/image_1.png" width="546" alt="discord.js" /></a>
+		<a href="https://discord.js.org/"><img src="https://media.discordapp.net/attachments/1148345371442020352/1179271505151008870/OPTION_DEVELOEPR_2.png" width="546" alt="discord.js" /></a>
 	</p>
 </div>
 
