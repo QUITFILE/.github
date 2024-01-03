@@ -1,7 +1,7 @@
 <div align="center">
 	<br />
 	<p>
-		<a href="https://discord.gg/z2TMzfHsQb"><img src="https://media.discordapp.net/attachments/1148345371442020352/1184536566689972356/SERVER_MANAGER_1.png" width="546" alt="discord.js" /></a>
+		<a href="https://discord.gg/z2TMzfHsQb"><img src="https://media.discordapp.net/attachments/1148345371442020352/1192243662399225927/SERVER_MANAGER_1-removebg-preview.png" width="546" alt="discord.js" /></a>
 	</p>
 </div>
 
