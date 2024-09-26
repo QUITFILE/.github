@@ -1,9 +1,7 @@
+ ## Who We Are
 
+We develop FiveM, a powerful Lua, JS, Vue.js, and HTML framework that allows one to interact with the [FiveM.net](https://docs.fivem.net/natives/) documentation.
 
-## Who We Are
-
-<center>
-  We develop Fivem , a powerful Lua, Js, Vue.js, Html framework that allows one to interact with the [FiveM.net](https://docs.fivem.net/natives/)
-  ![](https://github.com/QUITFILE/.github/blob/main/profile/banner.png)
-</center>
-
+<p align="center">
+  <img src="https://github.com/QUITFILE/.github/blob/main/profile/banner.png">
+</p>
